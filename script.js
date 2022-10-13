@@ -1,0 +1,1 @@
+document.body.append("from server")
